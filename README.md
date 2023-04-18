@@ -12,7 +12,7 @@ is the [visual samples index](https://flutter.github.io/samples).
 
 ## Tip: minimize download size
 
-As this repository is quite big, you can use svn to download a single example.
+As this repository is quite big, you can use svn to download a single example.f
 For example:
 
 ```
