@@ -25,7 +25,7 @@ to skip blob objects that aren't currently checked out,
 while including the full commit history:
 
 ```
-git clone --filter=blob:none https://github.com/flutter/samples.git
+git clone --filter=blob:none https://github.com/flutter/samples.gits
 ```
 
 ## Interested in contributing?
